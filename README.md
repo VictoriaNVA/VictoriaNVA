@@ -1,6 +1,6 @@
 ## Hi there!
 
-Undergraduate fresh out of Anglia Ruskin University, most comfortable coding in C# and Kotlin. What I love about coding the most is the challenge and the satisfaction of solving problems and creating something tangible
+Anglia Ruskin University Computer Science undergraduate, most comfortable coding in C# and Kotlin. What I love about coding the most is the challenge and the satisfaction of solving problems and creating something tangible
 - 🔭 Currently most interested in Mobile App Development
 - 🌱 Looking to learn more about Cloud technologies (Azure)
 - ⚡ I am a very creative person and my side hobbies are drawing and playing guitar
